@@ -19,9 +19,6 @@ npm install
 Create ```config.js``` file inside ```backend``` directory and copy the following code
 Currently  I have Replaced JWT_Token with My name
 
-```
-
-```
 # Run the App
 Go to ```backend``` and ```frontend``` directory and start the server
 ```
