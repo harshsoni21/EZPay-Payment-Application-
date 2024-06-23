@@ -23,12 +23,14 @@ Currently  I have Replaced JWT_Token with My name
 Go to ```backend``` and ```frontend``` directory and start the server
 ```
 cd backend
-nodemon indes.js or npm run dev
+nodemon index.js or npm run dev
 ```
 ```
 cd frontend
 npm run dev
 ```
+
+Tech Stack : MERN
 
 
 
